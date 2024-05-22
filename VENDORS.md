@@ -27,18 +27,14 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [415keys](https://415keys.com)                               | [x]      | [x]  | [x]   |        |         |           | Richmond, NC               |
 | [Asceny](https://asceny.com/)                                |          |      | [x]   | [x]    |         | [x]       | ?                          |
 | [BoardSource](https://boardsource.xyz/)<sup>1</sup>          | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
-| [Cable Craze](https://cablecraze.net/)                       |          |      |       | [x]    |         |           | ?                          |
 | [Cannon Keys](https://cannonkeys.com/)                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
-| [Coaxius](https://coaxius.com/)                              |          |      |       | [x]    |         |           | California                 |
 | [Cookie Cables](https://cookiecables.com/)                   |          |      |       | [x]    |         |           | ?                          |
 | [Cruz Ctrl](https://cruzctrl.gg/)                            |          |      |       | [x]    |         |           | Bay Area, CA               |
 | [Cup Cables](https://cupcables.com/)                         |          |      |       | [x]    |         |           | Oakland, CA                |
 | [DangKeebs](https://dangkeebs.com/)                          | [x]      | [x]  | [x]   |        | [x]     |           | Las Vegas, NV              |
 | [Digital Carpentry](https://digital-carpentry.com/)          |          |      |       |        |         |           | Kentucky                   |
 | [Divinikey](https://divinikey.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
-| [Donut Cables](https://donutcables.com/)                     |          |      |       | [x]    |         |           | ?                          |
 | [Dream Cables](https://dream-cables.com/)                    |          |      |       | [x]    |         |           | Utah                       |
-| [Endgame Keys](https://endgamekeys.com/)                     |          | [x]  | [x]   |        |         |           | Indiana                    |
 | [FlashQuark](https://flashquark.com/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | New York                   |
 | [Flex Cables](https://flexcablesstore.com/)                  |          |      |       | [x]    |         |           | ?                          |
 | [Kebo](https://kebo.store/)                                  | [x]      | [x]  | [x]   |        |         |           | San Gabriel, CA            |
@@ -47,7 +43,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KeyboardLube](https://keyboardlube.com/)                    |          | [x]  |       |        |         |           | Washington                 |
 | [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>              |          |      | [x]   |        |         | [x]       | Utah                       |
 | [Keyspensory](https://keyspensory.store/)                    | [x]      |      | [x]   |        |         |           | Santa Ana, CA              |
-| [Kimdi Keys](https://kimdi-keys.com/)                        | [x]      | [x]  | [x]   |        |         |           | Upstate New York           |
 | [Kinetic Labs](https://kineticlabs.store/)                   | [x]      | [x]  | [x]   |        | [x]     |           | New Jersey                 |
 | [KNC Keys](https://knckeys.com/)                             | [x]      | [x]  | [x]   |        |         |           | San Antonio, TX            |
 | [Kono](https://kono.store/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | intentionally confusing    |
@@ -69,10 +64,8 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Ringer Keys](https://ringerkeys.com/)                       | [x]      | [x]  | [x]   |        |         | [x]       | Greater Boston, MA         |
 | [Space Cables](https://spaceholdings.net/)                   |          | [x]  | [x]   | [x]    | [x]     |           | Austin, TX                 |
 | [Stupid Bullets Tech](https://stupidbulletstech.com)         | [x]      | [x]  | [x]   |        |         | [x]       |                            |
-| [Spaztik Cables](https://spaztikcables.com/)                 |          |      |       | [x]    |         |           | Utah                       |
 | [Switch Couture](https://switchcouture.com/)                 |          |      |       |        |         | [x]       | Florida                    |
 | [Switchmod](https://switchmod.net/)                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
-| [SwitchTop](https://switchtop.com/)                          | [x]      |      | [x]   |        | [x]     |           | Texas                      |
 | [Teal Technik](https://tealtechnik.com/)                     | [x]      | [x]  | [x]   |        |         |           | ?                          |
 | [Tez Cables](https://tezcables.com/)                         |          |      |       | [x]    |         |           | ?                          |
 | [TheKey.Company](https://thekey.company/)                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Michigan                   |
@@ -83,7 +76,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [WASD Keyboards](https://wasdkeyboards.com/)                 | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
 | [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>|       |      |       |        |         | [x]       | Austin, TX                 |
 | [Winnja](https://winnja.com/)                                |          |      | [x]   | [x]    |         |           | Texas                      |
-| [Zap Cables](https://zapcables.com/)                         |          |      |       | [x]    |         |           | Wisconsin                  |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
@@ -98,11 +90,9 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechLand](https://mech.land)                                | [x]      | [x]  | [x]   |        |         |           | Scarborough, ON            |
 | [MinoKeys](https://minokeys.com/)                            | [x]      | [x]  | [x]   | [x]    |         | [x]       | Ontario                    |
 | [Malvix](https://store.malvix.com/)                          | [x]      | [x]  | [x]   |        |         | [x]       | Vancouver, BC              |
-| [Noodle Cords](https://noodlecords.ca/)                      |          |      |       | [x]    |         |           | Canada                     |
 | [OmegaKeys](https://omegakeys.ca/)                           | [x]      | [x]  | [x]   |        |         | [x]       | Port Moody, BC             |
 | [OneOfZero](https://oneofzero.net)                           | [x]      |      |       |        | [x]     | [x]       | Canada                     |
 | [RNDKBD](https://rndkbd.com/)                                | [x]      | [x]  | [x]   |        |         | [x]       | Calgary, AB                |
-| [tokeebs](https://tokeebs.ca)                                | [x]      | [x]  | [x]   |        |         |           | Toronto, ON                |
 | [Vintkeys](https://vintkeys.ca/)                             | [x]      | [x]  |       |        |         | [x]       | Canada                     |
 | [ZealPC](https://zealpc.net/)                                | [x]      | [x]  | [x]   |        |         | [x]       | Richmond, BC               |
 
@@ -175,11 +165,10 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [KBD4U](http://kbd4u.com/)                                     |          |      |       |        |         | [x]       | South Korea  |
 | [KBDfans](https://kbdfans.com/)                                | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Kelowna](https://sloer.world.taobao.com/)                     | [x]      | [x]  | [x]   | [x]    | [x]     |           | China (PRC)  |
-| [Keys.my](https://keys.my/)                                    | [x]      | [x]  | [x]   |        |         |           | Malaysia     |
 | [Kibou](https://kibou.store)                                   | [x]      |      | [x]   |        | [x]     |           | China (PRC)  |
 | [KPRepublic](https://kprepublic.com/)                          | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [KwertieKeys](https://www.kwertiekeys.com/)                    | [x]      |      |       | [x]    | [x]     |           | Singapore    |
-| [LetsGetIt](https://letsgetit.io/)                             |          | [x]  | [x]   |        |         |           | South Korea  |
+| [LetsGetIt](https://letsgetit.kr/)                             |          | [x]  | [x]   |        |         |           | South Korea  |
 | [Mecha](https://mecha.store/)                                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
 | [MechanicalKeyboards](https://www.mechanicalkeyboards.co.id/)  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Indonesia    |
 | [MecKey Alpha](https://meckeyalpha.com/)                       | [x]      | [x]  | [x]   |        | [x]     | [x]       | China (PRC)  |
@@ -208,19 +197,16 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [AllCaps](https://allcaps.store/)                    | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Click Clack Cables](https://clickclackcables.com/)  |          |      |       | [x]    |         |           | Australia   |
 | [CLS Tech](https://clstech.com.au/)                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
-| [Cluster Cables](https://clustercables.com/)         |          |      |       | [x]    |         |           | Australia   |
 | [CustomKBD](https://customkbd.com/)<sup>1</sup>      | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [DailyClack](https://dailyclack.com/)                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 | [Hibi MX](https://hibi.mx/)                          |          |      |       |        |         | [x]       | Australia   |
 | [Keebd](https://keebd.com/)<sup>1</sup>              | [x]      |      | [x]   | [x]    | [x]     | [x]       | Australia   |
-| [Keebord](https://keebord.nz/)                       | [x]      |      | [x]   | [x]    | [x]     | [x]       | New Zealand |
 | [Keebz n cables](https://www.keebzncables.com/)      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse](https://keyboardtreehouse.com/) |          |      |       |        | [x]     | [x]       | Australia   |
 | [Keyboard Treehouse (AUS)](https://treehousehobbies.com)<sup>2</sup> | | |     |        | [x]     | [x]       | Australia   |
 | [Kiwi Clack](https://www.kiwiclack.com/)             |  [x]     | [x]  | [x]   | [x]    | [x]     |           | New Zealand |
 | [Mech Stock](https://mechstock.com.au/)              | [x]      | [x]  |       |        |         | [x]       | Australia   | 
 | [MTNKBD](https://mtnkbd.com/)                        | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Australia   |
-| [Naughty Boards](https://naughtyboards.com)          | [x]      |      | [x]   | [x]    | [x]     |           |  Australia  |
 | [PC Case Gear](https://www.pccasegear.com/)          | [x]      |      |       | [x]    | [x]     | [x]       | Australia   |
 | [Prestige Keys](https://prestigekeys.com.au/)        | [x]      | [x]  | [x]   |        |         |           | Australia   |
 | [Switchkeys](https://www.switchkeys.com.au/)         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
