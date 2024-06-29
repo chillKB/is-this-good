@@ -177,10 +177,10 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Monokei](https://store.monokei.co)                            |          | [x]  |       |        |         |           | Singapore    |
 | [MelGeek](https://www.melgeek.com/)                            | [x]      |      | [x]   | [x]    | [x]     | [x]       | China (PRC)  |
 | [Monstargears](https://www.monstargears.com/)                  | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | South Korea  |
+| [Neo Macro](https://neomacro.in)                               | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
 | [PantheonKeys](https://pantheonkeys.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     |           | Singapore    |
 | [Qwertyqop](https://qwertyqop.com/)                            | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Singapore    |
 | [Rebult Keyboards](https://www.rebultkeyboards.com)            | [x]      |      | [x]   |        |         |           | Malaysia     |
-| [Rectangles.store](https://rectangles.store/)                  | [x]      | [x]  | [x]   |        |         | [x]       | India        |
 | [StacksKB](https://stackskb.com/)                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | India        |
 | [SwagKeys](https://swagkeys.com/)                              | [x]      | [x]  | [x]   |        | [x]     |           | South Korea  |
 | [Thic Thock](https://thicthock.com/)                           | [x]      |      | [x]   |        |         |           | China (PRC)  |
