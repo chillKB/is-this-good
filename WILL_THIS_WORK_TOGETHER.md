@@ -190,14 +190,7 @@ generally not limited in what switches they would accept, with the exception of 
 hotswap socket that resembles Kailh/Gateron/TTC/CIY sockets).
 
 Outemu hotswap is limited to Outemu switches (as of 2023, this no longer includes Gazzew Boba switches), as the pins for the
-switches are sufficiently thin enough to enter the socket **without sanding**. Other switches that
-**may** fit in include
+switches are sufficiently thin enough to enter the socket **without sanding**. Newer Outemu switches
+may have thicker pins than their legacy switches (i.e., plain 3-pin Reds, Browns, Blues) that prevents
+compatibility.
 
-* KTT
-  * Akko CS switches are included in this classification
-  * May require elbow grease to fit
-* Tecsee [?]
-  * This is based off of some report that Glorious Holy Pandas fit into a Rakk Ilis without issue.
-    Since the manufacturer is generally implied to be Tecsee, other Tecsee switches may fit.
-* Huano
-  * Kind of hear-say from Reddit.
