@@ -94,7 +94,8 @@ We recommend greases/oils that contain Teflon (PTFE/polytetrafluoroethylene) con
   - Oils from the same manufacturer
     - Prior to using grease to lube Ergo Clears to ensure that they didn’t have return issues, oils were a popular option to reduce friction in a switch. Krytox 105 (thinner) to 107 (a bit more viscous) will fill that need while minimizing the risk that you over-lube.
   - Superlube
-    - Per xalmart, 51004's a good Superlube oil for these applications.
+    -  Multi-Use Synthetic Oil with Syncolon® (51004, 51008, etc.) can be used as a substitute for Krytox oils in most applications.
+
   - Not Recommended
     - AliExpress or Amazon mystery grease
       - If you’re buying lube off Taobao or AliExpress, the odds that its genuine Krytox from Miller Stephenson/Chemours/Dupont are infinitesimal. Notice how there’s no mention of Krytox, or if it is, it's pixelated out in the product image for some reason? You’re getting a product that is similar in consistency to what will work good as a switch grease, but lacks the proper chemical binders to prevent the oils from separating from the grease as quickly. There’s a reason we recommend vendors on MechMap: we trust them to sell products with the proper formulation that prevents their components from separating. We are not interested in scooping finders fees when you end up buying some Miller Stephenson product - we do this to ensure you don’t have to deal with a substandard product when you don’t know what substandard means yet.
