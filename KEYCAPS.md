@@ -25,26 +25,28 @@
   - [Why expensive?](#why-expensive)
   - [Who's Who](#whos-who)
     - [GMK](#gmk)
+    - [Keykobo](#keykobo)
     - [Signature Plastics (SP)](#signature-plastics-sp)
     - [JTK (JT Keycaps)](#jtk-jt-keycaps)
     - [DMK (Domikey)](#dmk-domikey)
       - [Cherry profile](#cherry-profile)
+        - [PBT](#pbt)
       - [SA profile](#sa-profile)
     - [EnjoyPBT (ePBT)](#enjoypbt-epbt)
     - [NicePBT/CannonCaps (CannonKeys Dye-sub)](#nicepbtcannoncaps-cannonkeys-dye-sub)
-    - [Shenpo/Godwife/Goddess Dye Sublimation](#shenpogodwifegoddess-dye-sublimation)
     - [XMI/21KB](#xmi21kb)
+    - [Shenpo/Godwife/Goddess Dye Sublimation](#shenpogodwifegoddess-dye-sublimation)
     - [PBTFans](#pbtfans)
     - [Milkyway/MW](#milkywaymw)
     - [Keyreative](#keyreative)
     - [Infinikey (IFK)](#infinikey-ifk)
-    - [Keykobo](#keykobo)
     - [Hammerworks/CRP](#hammerworkscrp)
     - [Drop](#drop)
     - [MT3](#mt3)
       - [DCX](#dcx)
       - [DCD](#dcd)
   - [Aifei (爱菲)](#aifei-爱菲)
+    - [Cherry profile](#cherry-profile-1)
 
 ## Comparing ABS versus PBT
 
@@ -295,19 +297,29 @@ Recent complaints of the company include long manufacturing times, color mismatc
 | There's UV print on keys with more than two colors? I hear UV print wears out fast! What a load of crap! | [Only if the manufacturer sucks! Notice how the shine hasn't wiped off the legends off these?](https://www.reddit.com/r/MechanicalKeyboards/comments/b3cm79/hbcp_griseann/) |
 | You're caping for GMK! You're a shill! | mad because bad |
 
+### Keykobo
+
+Molds appear to be very close to what GMK/Cherry font looks like. Early sets appear to be impacted by a mistake in manufacturing tolerances, so beware of keycaps cracking if you buy those earlier BoW/WoB/Sea of Clouds keysets.
+
+![](images/keycaps/keykobo_whoops.png)
+
 ### Signature Plastics (SP)
 
 Manufactured in America, SP provides flexible kitting and wide customizations, and are known for excellent communication with their customers (vendors or designers). They even offer one-off sets for a somewhat hefty price. DCS (a profile similar to Cherry) lead times have suffered significant growth due to a brief stint of popularity after designers migrated their sets to DCS to avoid the unpopularity of GMK lead times among potential customers, and SA lead times remain rough (due to significantly more resin used for that profile over the other profiles they offer). DSS and DSA lead times remain good. While their made-to-order sets tend to be doubleshot ABS, they do offer some limited dye-sublimated PBT options. Their SA is nearly glossy-smooth, DCS is moderately textured, and ABS DSS and DSA sets are aggressively textured. DSS, DSA, and DCS are all on the thinner side, while their SA is fairly thick. Their lead times are prone to ballooning quickly after accepting a few orders of GB sets.
 
 ### JTK (JT Keycaps)
 
-Cherry profile keycaps in doubleshot and tripleshot hiragana, cyrillic, and US-International (Griseann/Royal Alpha) ABS. Thickness is comparable to GMK. They are somewhat infamous for significant delays (such as with HSA) and slow communication with designers and vendors, even prior to covid. Their molds quality is moderately good, although more seasoned customers may have quibbles with the consistency of the thickness of the lines in some letters in their molds. Texture is a little more slick than GMK or DMK.
+Cherry profile keycaps in doubleshot and tripleshot hiragana, cyrillic, and US-International (Griseann/Royal Alpha) ABS. Thickness is comparable to GMK. They are somewhat infamous for significant delays (such as with HSA) and slow communication with designers and vendors, even prior to COVID, but now most of their sets tend to appear in-stock. Their molds quality is moderate, although more seasoned customers may have quibbles with the consistency of the thickness of the lines in some letters in their molds. Texture is a little more intense/sticker than GMK or DMK.
 
 ### DMK (Domikey)
 
 #### Cherry profile
 
-Doubleshot and tripleshot hiragana and cyrillic (with supposedly upcoming Hangul) tripleshot molds. Thickness comparable to GMK. Lead times appear to be very good, although it appears their load is managed by running few made-to-order keysets. The alphas are high-quality, their space bars are very straight, but the quality of the molds on the icon+text modifier keys should be noted, as it appears the letters bleed out a little bit. The caps themselves are textured moderately, which I find pleasant.
+ABS Doubleshot and tripleshot hiragana and cyrillic (with supposedly upcoming Hangul) tripleshot molds. Thickness comparable to GMK. Lead times appear to be very good, although it appears their load is managed by running few made-to-order keysets. The alphas are decent, their space bars are very straight, but the quality of the molds on the icon+text modifier keys should be noted, as it appears the letters bleed out a little bit. The caps themselves are textured moderately, which I find pleasant.
+
+##### PBT
+
+Domikey PBT and ABS sets are kitted differently, so do make note of this. Namely, the PBT sets don't support split backspace for some reason.
 
 #### SA profile
 
@@ -323,13 +335,13 @@ Avoid their doubleshot ABS sets, as the molds on those are of lower quality, inc
 NicePBT is composed of the **very** thick (1.7mm) blanks, while CannonCaps makes up the medium thick blanks (1.4mm). CannonCaps have very very smooth texture, while NicePBT is a bit more textured. Their kitting tends to be one large base kit that provides solid 40's and split bars support. Limited reverse dye-sublimation. A decent buy for those not trying to buy keycaps directly from China. Legend quality is improving. NicePBT is very smooth texture, CannonCaps (dyesub) is EXTREMELY smooth texture, perhaps on-par with (if not smoother than) CRP.
 There is some reverse dye-sub fade on the sides of the keycap, but you definitely get your money's worth in kitting.
 
-### Shenpo/Godwife/Goddess Dye Sublimation
-
-Thick blanks presumably sourced from the same blanks manufacturer as NicePBT and XMI/21KB (albeit with small differences). Known for doing a few keysets similar to OG Dyesubs or CRP (such as Green Hebrew, SAV, OG Triumph Adler, Xerox 6001, 6002), and a few clone sets, and a few sets designed on their own. Decent print quality at a very competitive price (~$35 USD). If you're not buying directly from Taobao, Keebox on AliExpress is generally the way to go. Very smooth texture.
-
 ### XMI/21KB
 
-Xiami/XMI/Shrimp Research is literally a dude with a dye sublimation machine who has pretty good accuracy/alignment printing on beige keycaps. Thick (1.6-1.7mm) blanks presumably sourced from the same blanks manufacturer as NicePBT and Shenpo (albeit with small differences). So thick they sound a bit dead to some. Absolute smorgasboard of different sublegend options. 21KB is the Western proxy. Very smooth texture. 
+Xiami/XMI is literally a dude with a dye sublimation machine who has pretty good accuracy/alignment printing on beige keycaps. Thick (1.6-1.7mm) blanks presumably sourced from the same blanks manufacturer as NicePBT and Shenpo (albeit with small differences). So thick they sound a bit dead to some. Absolute smorgasboard of different sublegend options. 21KB is the Western proxy. Very smooth texture. 
+
+### Shenpo/Godwife/Goddess Dye Sublimation
+
+Thick blanks - at one point, they sourced them from the same place as XMI or NicePBT, but now the blanks aren't identical. Known for doing a few keysets similar to OG Dyesubs or CRP (such as Green Hebrew, SAV, OG Triumph Adler, Xerox 6001, 6002), BoB, and a few clone sets, and a few sets designed on their own. Acceptable print quality for the price (~$35 USD). If you're not buying directly from Taobao, Keebox on AliExpress is generally the way to go. Very smooth texture.
 
 ### PBTFans
 
@@ -339,30 +351,25 @@ KBDFans's in-house manufacturing setup. Genuine doubleshot and tripleshot PBT, a
 
 A new manufacturer that advertises large kitting flexibility and lower pricing, as well what appears to be a novel approach to reverse dye-sublimation. PBT smoothness is about on par with other manufacturers.
 Color-matching (case: MW Demon Girl) and alignment (cases: MW Cat PBT, Bolsa Supply WoB Hiragana, MW Demon Girl) appear to be troubling. Reverse dye-sublimation sets appear to be heavily impacted by delays, as well as delays of "oh we have to completely remake our blanks molds because we've noticed that some keycaps are getting manufactured with scratches in them."
+Dyesub PBT has felt a bit on the cheap side. They now offer doubleshots, although we haven't checked the quality yet.
 
 ### Keyreative
 
-Known for producing KAT (sculpted) and KAM (uniform profile) keycaps. A manufacturer that offers very attractive MOQ targeting based on total units sold instead of individual kits. They are suffering a significant backlog exacerbated by converting some sets that were advertised by designers as reverse dye-sublimation to doubleshot manufacturing and constant lockdowns. QC appears to be inconsistent too, as past sets have had somewhat fuzzy dye-sub, sub-standard alignment, significant amounts of keycap shrink with their reverse dye-sub process, reverse dye-sub peel (most famously with KAT Space Cadet). Their dyesub PBT is velvety smooth, can't speak to their doubleshot yet. Keyreative is also infamous for poor communication with designers, having shipped keysets **multiple times** without announcing it to designers.
+Known for producing KAT (sculpted) and KAM (uniform profile) keycaps, and KAP (Doubleshot Cherry profile) in the near future. Past sets have suffered from fuzzy dye-sub, sub-standard alignment, significant amounts of keycap shrink with their reverse dye-sub process, reverse dye-sub peel (most famously with KAT Space Cadet). KAM is offered in two finishes, glossy smooth, and matte, while KAT is offered strictly in matte texture. Turnaround times seen in the past seem to have improved significantly, now that their production queue has cleared out.
 
 ### Infinikey (IFK)
 
 TheKeyCompany's front-end for a manufacturer that offers all-over dye-sublimation Cherry profile and DSA keycaps. Their quality is simply *alright* (alignment is a bit off at times, and their font options aren't for everyone). They are moving from running group-buy sets to in-stock sales.
 
-### Keykobo
-
-Another new kid on the block. Molds appear to be very close to what GMK/Cherry font looks like. Decent timelines, but MOQs appear to be fairly high (and not well-known) after Geon & Novelkeys bought out a **lot** of their BoW/WoB sets. Early sets appear to be impacted by a mistake in manufacturing tolerances, so beware of keycaps cracking if you buy those earlier BoW/WoB/Sea of Clouds keysets.
-
-![](images/keycaps/keykobo_whoops.png)
-
 ### Hammerworks/CRP
 
-Very smooth (to the point where they shine faster than textured PBT), moderately thick. Comes in two colors: beige, and white. They don't run group-buys that often, so be prepared to pay the aftermarket tax if you want any.
+Very smooth (to the point where they shine faster than textured PBT), moderately thick. Originally they came in two colors: beige, and white - now they've got other colors, but they keep their dye-sublimation simple.. They don't run group-buys that often, so be prepared to pay the aftermarket tax if you want any.
 
 ### Drop
 
 ### MT3
 
-Tall, spherical sculpted keycaps. Manufactured by Geekark. Can either be doubleshot ABS or dye-sublimated PBT. The PBT stuff is on the smoother side, has a history of rough dye-sub bleed.
+Tall, spherical sculpted keycaps. Manufactured by Geekark. Can either be doubleshot ABS or dye-sublimated PBT. These caps are known for high texture. The bottom row profile will be different between the PBT and ABS sets
 
 #### DCX
 
@@ -374,4 +381,12 @@ Very very smooth, like CannonCaps, NicePBT, XMI, and CRP. Dye-sublimation PBT. M
 
 ## Aifei (爱菲)
 
-One of the larger keyset clone manufacturers in China. Molds on modifier keys on their Cherry profile sets don't look incredible. Kitting is fixed due to waffle molds - what you see is what you get, which usually means more accent/mod colored bars than alpha-colored bars. Their Cherry-profile caps are purportedly made up of one shot PBT and one shot ABS, which probably explains why half of the resellers market them as ABS, and the other half market them as PBT. Do not expect high quality resin, you get what you pay for. Their take on Melgeek MG/Signature Plastics SA style of tall and spherically sculpted keycaps is referred to as AFSA profile: good value for money (lots of resin), and legends that don't loook terrible.
+One of the larger keyset clone manufacturers in China. Molds on modifier keys on their Cherry profile sets don't look incredible. Kitting is fixed due to waffle molds - what you see is what you get, which usually means more accent/mod colored bars than alpha-colored bars. Their Cherry-profile caps are purportedly made up of one shot PBT and one shot ABS, which probably explains why half of the resellers market them as ABS, and the other half market them as PBT. Do not expect high quality resin, you get what you pay for. Their take on Melgeek MG/Signature Plastics SA style of tall and spherically sculpted keycaps is referred to as AFSA profile: good value for money (lots of resin), and legends that don't look terrible.
+
+### Cherry profile
+
+Originally, they started with dye-sub PBT clone sets (i.e. Metaverse, Future Funk, Sushi, etc...). Now, they're known for three generations of  doubleshot molds, all with very smooth texture.
+
+1. 1st generation, icon+text modifier keys, big base kit (full size, split bars + accent bars, accent keys). The legends on the modifier keys are genuinely bad - you can tell if this is the case if the Tab, Backspace, Enter, or Code keys have really goofy legends.
+2. 2nd generation, icon modifier keys, base kit supports 60, 65, 75, TKL, and full size, but no split backspace, 7u, or Alice bar supports. Modifier legend quality has improved.
+3. 3rd generation, icon+text modifier keys, TKL base with support for tsangan/7u bottom row, split backspace, and Alice bars. Modifier legend quality  is better than 1st round.

@@ -2,6 +2,7 @@
 
 - [Keyboard Kits](#keyboard-kits)
   - [Firmware Support](#firmware-support)
+    - [Claims for QMK/VIA support with Wireless](#claims-for-qmkvia-support-with-wireless)
   - [Switch orientation](#switch-orientation)
   - [Hotswap support](#hotswap-support)
   - [Mounts](#mounts)
@@ -31,6 +32,16 @@ Being able to reprogram your keyboard with your preferred key layout or fun feat
   - Likewise, if the layout JSON hasn’t been merged to the-via yet, then you will need to take the .json layout file that the vendor provides, and side-load that into VIA Configurator. It’s one more step, it’s not the worst thing in the world..
 - Best: Out-of-the-box QMK + VIA/VIAL support
   - You can compile it! You can adjust your keymaps and flash! You can enable features not included in the shipped firmware or binary! Wow!
+
+### Claims for QMK/VIA support with Wireless
+
+For the known future, there are no wireless chips that provide a firmware support stack whose licenses are compatible with QMK, which is licensed under GPL. For this reason, the QMK maintainers refuse to merge support for boards that run QMK on one MCU and offload wireless connections to a separate chip. The downstream effect of this is that
+* the source code for your keyboard's firmware is probably not going to be easily findable
+  * this means you won't be able to get any reasonable support for updates or firmware modification outside of what VIA provides
+* the keyboard layout JSON will not be merged into VIA
+  * (with the exception of Keychrons because their users are... well... you know...)
+* which means you'll be forced to side-load the layout JSON into VIA, which means you have to find the JSON on your own. If that file's in a private discord server, or a website that will go down in a couple of years after the vendor moves on, you may be SOL.
+* the battery life of these boards is awful in comparison to something that is only powered by a single chip, like an NRF, and thus requires a massive battery to power them for longer than a single digit number of hours.
 
 ## Switch orientation
 
@@ -62,8 +73,8 @@ lazy to read that, I have a much cruder run-down below.
 | Mount | Review |
 | - | - |
 | Top | Feels even, sounds clean, and has a bit more give than stiffer mounts like sandwich/integrated/tray. |
-| Bottom | Much like top, only it sounds a little like bones. |
-| Gasket | Not always as soft/flexy-wexy as you think, but generally has the most give of all. Popular, people-pleaser, too many keyboard sellers cancel out any flex by pairing with a foam lasgna. |
+| Bottom | Much like top, only may sound a little like bones. |
+| Gasket | Not always as soft/flexy-wexy as you think, but generally has the most give of all. Popular, people-pleaser, too many keyboard sellers cancel out any flex by pairing with a foam lasagna. |
 | Tray | Usually found in the cheapest of boards. No give, and sound can be very uneven. |
 | Sandwich | Even and stiff, but can feel like typing into a wall. Not the worst thing in the world. |
 | Integrated | Cheap to make. Tends to sound hollow and pingy in most implementation. Consider force breaking. |
