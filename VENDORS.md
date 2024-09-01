@@ -21,55 +21,56 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 
 ### USA
 
-| Vendor                                                           | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
-|------------------------------------------------------------------|----------|------|-------|--------|---------|-----------|----------------------------|
-| [1upKeyboards](https://1upkeyboards.com)                         | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York, NY               |
-| [Asceny](https://asceny.com/)                                    |          |      | [x]   | [x]    |         | [x]       | ?                          |
-| [BoardSource](https://boardsource.xyz/)<sup>1</sup>              | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
-| [Cannon Keys](https://cannonkeys.com/)                           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
-| [Cruz Ctrl](https://cruzctrl.gg/)                                |          |      |       | [x]    |         |           | Bay Area, CA               |
-| [DangKeebs](https://dangkeebs.com/)                              | [x]      | [x]  | [x]   |        | [x]     |           | Las Vegas, NV              |
-| [Digital Carpentry](https://digital-carpentry.com/)              |          |      |       |        |         |           | Kentucky                   |
-| [Divinikey](https://divinikey.com/)                              | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
-| [Dream Cables](https://dream-cables.com/)                        |          |      |       | [x]    |         |           | Utah                       |
-| [FlashQuark](https://flashquark.com/)                            | [x]      | [x]  | [x]   |        | [x]     | [x]       | New York                   |
-| [Kebo](https://kebo.store/)                                      | [x]      | [x]  | [x]   |        |         |           | San Gabriel, CA            |
-| [Keebio](https://keeb.io)<sup>1</sup>                            |          |      | [x]   |        |         | [x]       | Durham, NC                 |
-| [KeebsForAll](https://keebsforall.com/)                          | [x]      | [x]  | [x]   |        | [x]     |           | Los Angeles, CA            |
-| [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>                  |          |      | [x]   |        |         | [x]       | Utah                       |
-| [Keyspensory](https://keyspensory.store/)                        | [x]      |      | [x]   |        |         |           | Santa Ana, CA              |
-| [Kinetic Labs](https://kineticlabs.store/)                       | [x]      | [x]  | [x]   |        | [x]     |           | New Jersey                 |
-| [KNC Keys](https://knckeys.com/)                                 | [x]      | [x]  | [x]   |        |         |           | San Antonio, TX            |
-| [Kraken Keyboards](https://krakenkeyboards.com/)                 |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
-| [Little Keyboards](https://littlekeyboards.com/)<sup>1</sup>     | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
-| [MaxKeyboard](https://maxkeyboard.com/)                          | [x]      |      |       |        | [x]     | [x]       | California (Northern)      |
-| [MechanicalKeyboards](https://mechanicalkeyboards.com/)          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Arizona/Tennessee          |
-| [MechCables](https://mechcables.com/)                            |          |      |       | [x]    |         |           | Virginia                   |
-| [Mechwild](https://mechwild.com/)<sup>1</sup>                    | [x]      |      | [x]   |        |         | [x]       | Ohio                       |
-| [Mekibo (TX Keyboards)](https://mekibo.com/)                     | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
-| [Milktooth](https://milktooth.com)                               | [x]      |      |       |        |         |           | California                 |
-| [Mimic Cables](https://mimic-cables.com/)                        |          |      |       | [x]    |         |           | ?                          |
-| [NovelKeys_](https://novelkeys.xyz/)                             | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
-| [Paramountkeeb](https://paramountkeeb.com/)                      | [x]      | [x]  | [x]   |        |         | [x]       | Paramount, CA              |
-| [Pkkeyboards](https://pkkeyboards.com/)                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Southern California        |
-| [Povertykeys](https://povertykeys.com/collections/all)           | [x]      | [x]  | [x]   |        | [x]     |           | Southern California        |
-| [PrimeKB](https://primekb.com/)                                  | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
-| [RGBKB](https://rgbkb.net/)                                      | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
-| [Ringer Keys](https://ringerkeys.com/)                           | [x]      | [x]  | [x]   |        |         | [x]       | Greater Boston, MA         |
-| [Space Cables](https://spaceholdings.net/)                       |          | [x]  | [x]   | [x]    | [x]     |           | Austin, TX                 |
-| [Stupid Bullets Tech](https://stupidbulletstech.com)             | [x]      | [x]  | [x]   |        |         | [x]       |                            |
-| [Switch Couture](https://switchcouture.com/)                     |          |      |       |        |         | [x]       | Florida                    |
-| [Switchmod](https://switchmod.net/)                              |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
-| [Teal Technik](https://tealtechnik.com/)                         | [x]      | [x]  | [x]   |        |         |           | ?                          |
-| [Tez Cables](https://tezcables.com/)                             |          |      |       | [x]    |         |           | ?                          |
-| [TheKey.Company](https://thekey.company/)                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | Michigan                   |
-| [Thockeys](https://thockeys.com/)                                | [x]      | [x]  | [x]   |        | [x]     |           | Westminster, MA            |
-| [Thockpop](https://thockpop.com/)                                | [x]      | [x]  | [x]   |        | [x]     |           | Houston, TX                |
-| [TypeMachina](https://typemachina.com/)                          | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
-| [Upgrade Keyboards](https://upgradekeyboards.com/)               | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
-| [WASD Keyboards](https://wasdkeyboards.com/)                     | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
-| [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup> |          |      |       |        |         | [x]       | Austin, TX                 |
-| [Winnja](https://winnja.com/)                                    |          |      | [x]   | [x]    |         |           | Texas                      |
+| Vendor                                                                       | Switches | Lube | Stabs | Cables | Keycaps | Keyboards | Location                   |
+|------------------------------------------------------------------------------|----------|------|-------|--------|---------|-----------|----------------------------|
+| [1upKeyboards](https://1upkeyboards.com)                                     | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | New York, NY               |
+| [Asceny](https://asceny.com/)                                                |          |      | [x]   | [x]    |         | [x]       | ?                          |
+| [Apos](https://apos.audio/collections/mechanical-keyboards-keycaps-deskmats) |          |      |       |        | [x]     | [x]       | ?                          |
+| [BoardSource](https://boardsource.xyz/)<sup>1</sup>                          | [x]      | [x]  | [x]   |        | [x]     | [x]       | ?                          |
+| [Cannon Keys](https://cannonkeys.com/)                                       | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Rhode Island               |
+| [Cruz Ctrl](https://cruzctrl.gg/)                                            |          |      |       | [x]    |         |           | Bay Area, CA               |
+| [DangKeebs](https://dangkeebs.com/)                                          | [x]      | [x]  | [x]   |        | [x]     |           | Las Vegas, NV              |
+| [Digital Carpentry](https://digital-carpentry.com/)                          |          |      |       |        |         |           | Kentucky                   |
+| [Divinikey](https://divinikey.com/)                                          | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Los Angeles, CA            |
+| [Dream Cables](https://dream-cables.com/)                                    |          |      |       | [x]    |         |           | Utah                       |
+| [FlashQuark](https://flashquark.com/)                                        | [x]      | [x]  | [x]   |        | [x]     | [x]       | New York                   |
+| [Kebo](https://kebo.store/)                                                  | [x]      | [x]  | [x]   |        |         |           | San Gabriel, CA            |
+| [Keebio](https://keeb.io)<sup>1</sup>                                        |          |      | [x]   |        |         | [x]       | Durham, NC                 |
+| [KeebsForAll](https://keebsforall.com/)                                      | [x]      | [x]  | [x]   |        | [x]     |           | Los Angeles, CA            |
+| [KeyHive](https://keyhive.xyz/shop)<sup>1</sup>                              |          |      | [x]   |        |         | [x]       | Utah                       |
+| [Keyspensory](https://keyspensory.store/)                                    | [x]      |      | [x]   |        |         |           | Santa Ana, CA              |
+| [Kinetic Labs](https://kineticlabs.store/)                                   | [x]      | [x]  | [x]   |        | [x]     |           | New Jersey                 |
+| [KNC Keys](https://knckeys.com/)                                             | [x]      | [x]  | [x]   |        |         |           | San Antonio, TX            |
+| [Kraken Keyboards](https://krakenkeyboards.com/)                             |          |      |       | [x]    | [x]     | [x]       | California (Southern)      |
+| [Little Keyboards](https://littlekeyboards.com/)<sup>1</sup>                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | North Carolina             |
+| [MaxKeyboard](https://maxkeyboard.com/)                                      | [x]      |      |       |        | [x]     | [x]       | California (Northern)      |
+| [MechanicalKeyboards](https://mechanicalkeyboards.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Arizona/Tennessee          |
+| [MechCables](https://mechcables.com/)                                        |          |      |       | [x]    |         |           | Virginia                   |
+| [Mechwild](https://mechwild.com/)<sup>1</sup>                                | [x]      |      | [x]   |        |         | [x]       | Ohio                       |
+| [Mekibo (TX Keyboards)](https://mekibo.com/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
+| [Milktooth](https://milktooth.com)                                           | [x]      |      |       |        |         |           | California                 |
+| [Mimic Cables](https://mimic-cables.com/)                                    |          |      |       | [x]    |         |           | ?                          |
+| [NovelKeys_](https://novelkeys.xyz/)                                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
+| [Paramountkeeb](https://paramountkeeb.com/)                                  | [x]      | [x]  | [x]   |        |         | [x]       | Paramount, CA              |
+| [Pkkeyboards](https://pkkeyboards.com/)                                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Southern California        |
+| [Povertykeys](https://povertykeys.com/collections/all)                       | [x]      | [x]  | [x]   |        | [x]     |           | Southern California        |
+| [PrimeKB](https://primekb.com/)                                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
+| [RGBKB](https://rgbkb.net/)                                                  | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
+| [Ringer Keys](https://ringerkeys.com/)                                       | [x]      | [x]  | [x]   |        |         | [x]       | Greater Boston, MA         |
+| [Space Cables](https://spaceholdings.net/)                                   |          | [x]  | [x]   | [x]    | [x]     |           | Austin, TX                 |
+| [Stupid Bullets Tech](https://stupidbulletstech.com)                         | [x]      | [x]  | [x]   |        |         | [x]       |                            |
+| [Switch Couture](https://switchcouture.com/)                                 |          |      |       |        |         | [x]       | Florida                    |
+| [Switchmod](https://switchmod.net/)                                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
+| [Teal Technik](https://tealtechnik.com/)                                     | [x]      | [x]  | [x]   |        |         |           | ?                          |
+| [Tez Cables](https://tezcables.com/)                                         |          |      |       | [x]    |         |           | ?                          |
+| [TheKey.Company](https://thekey.company/)                                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Michigan                   |
+| [Thockeys](https://thockeys.com/)                                            | [x]      | [x]  | [x]   |        | [x]     |           | Westminster, MA            |
+| [Thockpop](https://thockpop.com/)                                            | [x]      | [x]  | [x]   |        | [x]     |           | Houston, TX                |
+| [TypeMachina](https://typemachina.com/)                                      | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
+| [Upgrade Keyboards](https://upgradekeyboards.com/)                           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
+| [WASD Keyboards](https://wasdkeyboards.com/)                                 | [x]      |      |       | [x]    | [x]     | [x]       | California                 |
+| [Worldspawn](https://etsy.com/shop/WorldspawnsKeebs)<sup>1</sup>             |          |      |       |        |         | [x]       | Austin, TX                 |
+| [Winnja](https://winnja.com/)                                                |          |      | [x]   | [x]    |         |           | Texas                      |
 
 <sup>1</sup>: Through-hole keyboard specialty
 
@@ -202,7 +203,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Switchkeys](https://www.switchkeys.com.au/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 
 <sup>1</sup>: Through-hole keyboard specialty
-<sup>2</sup>: Australia-only storefront
 
 ## Middle East/West Asia
 
