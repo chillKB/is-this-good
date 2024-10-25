@@ -47,10 +47,10 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [MechanicalKeyboards](https://mechanicalkeyboards.com/)                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Arizona/Tennessee          |
 | [MechCables](https://mechcables.com/)                                        |          |      |       | [x]    |         |           | Virginia                   |
 | [Mechwild](https://mechwild.com/)<sup>1</sup>                                | [x]      |      | [x]   |        |         | [x]       | Ohio                       |
-| [Mekibo (TX Keyboards)](https://mekibo.com/)                                 | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
+| [Mekibo](https://mekibo.com/)                                                | [x]      | [x]  | [x]   |        | [x]     | [x]       | Garden Grove, CA           |
 | [Milktooth](https://milktooth.com)                                           | [x]      |      |       |        |         |           | California                 |
 | [Mimic Cables](https://mimic-cables.com/)                                    |          |      |       | [x]    |         |           | ?                          |
-| [NovelKeys_](https://novelkeys.xyz/)                                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
+| [NovelKeys](https://novelkeys.com/)                                          | [x]      | [x]  | [x]   |        | [x]     | [x]       | Morgantown, WV             |
 | [Paramountkeeb](https://paramountkeeb.com/)                                  | [x]      | [x]  | [x]   |        |         | [x]       | Paramount, CA              |
 | [Pkkeyboards](https://pkkeyboards.com/)                                      | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Southern California        |
 | [Povertykeys](https://povertykeys.com/collections/all)                       | [x]      | [x]  | [x]   |        | [x]     |           | Southern California        |
@@ -63,8 +63,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Switchmod](https://switchmod.net/)                                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
 | [Teal Technik](https://tealtechnik.com/)                                     | [x]      | [x]  | [x]   |        |         |           | ?                          |
 | [Tez Cables](https://tezcables.com/)                                         |          |      |       | [x]    |         |           | ?                          |
-| [TheKey.Company](https://thekey.company/)                                    | [x]      | [x]  | [x]   |        | [x]     | [x]       | Michigan                   |
-| [Thockeys](https://thockeys.com/)                                            | [x]      | [x]  | [x]   |        | [x]     |           | Westminster, MA            |
 | [Thockpop](https://thockpop.com/)                                            | [x]      | [x]  | [x]   |        | [x]     |           | Houston, TX                |
 | [TypeMachina](https://typemachina.com/)                                      | [x]      |      | [x]   |        | [x]     | [x]       | Irvine, CA                 |
 | [Upgrade Keyboards](https://upgradekeyboards.com/)                           | [x]      | [x]  | [x]   | [x]    | [x]     | [x]       | Houston, TX                |
