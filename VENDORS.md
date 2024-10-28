@@ -201,6 +201,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [Switchkeys](https://www.switchkeys.com.au/)                         | [x]      | [x]  | [x]   |        | [x]     | [x]       | Australia   |
 
 <sup>1</sup>: Through-hole keyboard specialty
+<sup>2</sup>: Australia-only storefront
 
 ## Middle East/West Asia
 
