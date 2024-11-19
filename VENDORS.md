@@ -138,6 +138,7 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [OpticBoards](https://www.opticboards.com/)         | [x]      | [x]  | [x]   |        |         |           | UK       |
 | [Pexon](https://pexonpcs.co.uk/)                    |          |      |       | [x]    |         |           | UK       |
 | [Prototypist](https://prototypist.net/)             | [x]      | [x]  | [x]   |        | [x]     | [x]       | UK       |
+| [SerpentKeys](https://www.serpentkeys.co.uk/)       | [x]      | [x]  | [x]   |        | [x]     | [x]       | UK       |
 | [TheKeyboardCo](https://www.keyboardco.com/)        | [x]      |      | [x]   | [x]    | [x]     | [x]       | UK       |
 | [UK Keycaps](http://www.ukkeycaps.co.uk/)           | [x]      |      |       |        | [x]     | [x]       | UK       |
 
