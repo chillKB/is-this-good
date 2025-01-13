@@ -57,7 +57,6 @@ If you notice any mistakes, or would like to contribute, feel free to **make** a
 | [PrimeKB](https://primekb.com/)                                              | [x]      | [x]  | [x]   |        | [x]     | [x]       | Aledo, TX                  |
 | [RGBKB](https://rgbkb.net/)                                                  | [x]      |      |       |        | [x]     | [x]       | Connecticut                |
 | [Ringer Keys](https://ringerkeys.com/)                                       | [x]      | [x]  | [x]   |        |         | [x]       | Greater Boston, MA         |
-| [Space Cables](https://spaceholdings.net/)                                   |          | [x]  | [x]   | [x]    | [x]     |           | Austin, TX                 |
 | [Stupid Bullets Tech](https://stupidbulletstech.com)                         | [x]      | [x]  | [x]   |        |         | [x]       |                            |
 | [Switch Couture](https://switchcouture.com/)                                 |          |      |       |        |         | [x]       | Florida                    |
 | [Switchmod](https://switchmod.net/)                                          |          | [x]  |       |        |         |           | Minnesota -- Massachusetts |
